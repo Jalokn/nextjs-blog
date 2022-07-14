@@ -20,10 +20,13 @@
     "**/*.ts",
     "**/*.tsx",
     "postcss.config.js",
-    "lib/posts.js",
-    "lib/posts.js",
-    "pages/index.jsx",
-    "pages/posts/[id].js"
+    "lib/posts.ts",
+    "lib/posts.ts",
+    "pages/index.tsx",
+    "pages/posts/[id].ts",
+    "components/date.js",
+    "components/date.js",
+    "components/date.js"
   ],
   "exclude": ["node_modules"]
 }
